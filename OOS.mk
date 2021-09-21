@@ -6,6 +6,8 @@ PRODUCT_COPY_FILES += \
     vendor/OOS/etc/sysconfig/op-launcher-hiddenapi-package-whitelist.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/op-launcher-hiddenapi-package-whitelist.xml
 
 PRODUCT_PACKAGES += \
+    OPMms11 \
+    OPDialer\
     OPDeskClock \
     OPFileManager \
     OPGallery \
