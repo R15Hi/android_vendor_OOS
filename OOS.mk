@@ -14,6 +14,8 @@ PRODUCT_PACKAGES += \
     OPDeskClock \
     OPCalculator \
     OPNotes \
+    OPMusic \
+    OPRecorder \
     OPScreenRecorder \
     OPFileManager \
     OPGallery \
