@@ -18,6 +18,15 @@ Android Vendor OOS is a collection of applications oneplus port for prebuilt apk
     OnePlus Wallpaper Resources
     OnePlus Weather
     OnePlus Widget
+    OnePlus Recorder
+    OnePlus Notes
+    OnePlus Calculator
+    Octavi Dialer
+    OnePlus  Messaging
+    OnePlus Screen Recorder
+    OnePlus Music
+   
+   
 
 ## Building OxygenOS Apks
 * Clone this repository in `vendor/OOS` in your ROM's Sourcecode & Inherit OOS Using these lines in your Device Makefile.
@@ -29,5 +38,5 @@ $(call inherit-product, vendor/OOS/OOS.mk)
 
 ## Credits
 - Inline by [officialputuid](https://github.com/officialputuid)
-- @MrSluffy @GodLeaveMe @loserq @yuanjihe @sherifrahim
+- @MrSluffy @GodLeaveMe @loserq @yuanjihe @sherifrahim @R15H1
 - https://t.me/bugreport_group (all source from here)
